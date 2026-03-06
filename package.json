@@ -1,0 +1,13 @@
+{
+  "name": "bug-bounty-test-repo",
+  "version": "1.0.0",
+  "description": "Testing dependency graph endpoints",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
